@@ -2,6 +2,8 @@
 
 ## 48I
 
+`/auto/qs0-3/qcddata/MDWF/2+1f/48nt96/IWASAKI/b2.13/ls24b+c2/M1.8/ms0.0362/mu0.00078/rhmc_H_R_G/archived/ckpoint_lat.1000`
+
 | Name             | Value                   |
 | ---------------- | ----------------------- |
 | Size             | $48^3\times 96$         |
@@ -24,6 +26,8 @@
 | $a m_h$ | $0.03580$   |
 
 ## 64I
+
+`/auto/qs0-0/qcddata/MDWF/2+1f/64nt128/IWASAKI/b2.25/ls12b+c2/M1.8/ms0.02661/mu0.000678/rhmc_HR_G/archived/ckpoint_lat.1200`
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -48,53 +52,61 @@
 
 ## 24D
 
-| Name             | Value                     |
-| ---------------- | ------------------------- |
-| Size             | $24^3\times 64$           |
-| $L_s$            | $24$                      |
-| $b+c$            | $4.0$                     |
-| $a m_l$          | $0.00107$                 |
-| $a m_h$          | $0.0850$                  |
-| $a^{-1}$         | $1.0158(40)~\mathrm{GeV}$ |
-| $a m_\pi$        | $0.13975(10)$             |
-| $a m_K$          | $0.504154(89)$            |
-| $a m_\text{res}$ | $0.0022824(70)$           |
-| $Z_V$            | $0.72672(35)$             |
-| $Z_A$            | $0.73457(11)$             |
+`/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/evol1/configurations/ckpoint_lat.1000`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 64$         |
+| $L_s$            | $24$                    |
+| $b+c$            | $4.0$                   |
+| $a m_l$          | $0.00107$               |
+| $a m_h$          | $0.0850$                |
+| $a^{-1}$         | $1.023(2)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.13975(10)$           |
+| $a m_K$          | $0.504154(89)$          |
+| $a m_\text{res}$ | $0.0022824(70)$         |
+| $Z_V$            | $0.72672(35)$           |
+| $Z_A$            | $0.73457(11)$           |
 
 ## 24DH
 
-| Name             | Value                     |
-| ---------------- | ------------------------- |
-| Size             | $24^3\times 64$           |
-| $L_s$            | $24$                      |
-| $b+c$            | $4.0$                     |
-| $a m_l$          | $0.0174$                  |
-| $a m_h$          | $0.0985$                  |
-| $a^{-1}$         | $1.0158(40)~\mathrm{GeV}$ |
-| $a m_\pi$        | $0.3357(5)$               |
-| $a m_K$          |                           |
-| $a m_\text{res}$ |                           |
-| $Z_V$            |                           |
-| $Z_A$            |                           |
+`/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0985/ml0.0174/rhmc_R_H_TG/evol0/configurations/ckpoint_lat.200`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 64$         |
+| $L_s$            | $24$                    |
+| $b+c$            | $4.0$                   |
+| $a m_l$          | $0.0174$                |
+| $a m_h$          | $0.0985$                |
+| $a^{-1}$         | $1.023(2)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.3357(5)$             |
+| $a m_K$          |                         |
+| $a m_\text{res}$ |                         |
+| $Z_V$            |                         |
+| $Z_A$            |                         |
 
 ## 32D
 
-| Name             | Value                     |
-| ---------------- | ------------------------- |
-| Size             | $32^3\times 64$           |
-| $L_s$            | $24$                      |
-| $b+c$            | $4.0$                     |
-| $a m_l$          | $0.00107$                 |
-| $a m_h$          | $0.0850$                  |
-| $a^{-1}$         | $1.0158(40)~\mathrm{GeV}$ |
-| $a m_\pi$        | $0.139474(96)$            |
-| $a m_K$          | $0.50457(20)$             |
-| $a m_\text{res}$ | $0.0022764(76)$           |
-| $Z_V$            | $0.7260(19)$              |
-| $Z_A$            | $0.73464(33)$             |
+`/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/evol0/configurations/ckpoint_lat.1000`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $32^3\times 64$         |
+| $L_s$            | $24$                    |
+| $b+c$            | $4.0$                   |
+| $a m_l$          | $0.00107$               |
+| $a m_h$          | $0.0850$                |
+| $a^{-1}$         | $1.023(2)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.139474(96)$          |
+| $a m_K$          | $0.50457(20)$           |
+| $a m_\text{res}$ | $0.0022764(76)$         |
+| $Z_V$            | $0.7260(19)$            |
+| $Z_A$            | $0.73464(33)$           |
 
 ## 32Dfine
+
+`/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.75/ls12b+c2.6667/M1.8/ms0.045/mu0.0001/rhmc_H_R_G/archived/ckpoint_lat.10`
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -103,12 +115,60 @@
 | $b+c$            | $32.0/12.0$             |
 | $a m_l$          | $0.0001$                |
 | $a m_h$          | $0.045$                 |
-| $a^{-1}$         | $1.378(7)~\mathrm{GeV}$ |
+| $a^{-1}$         | $1.378(5)~\mathrm{GeV}$ |
 | $a m_\pi$        | $0.10468(32)$           |
 | $a m_K$          | $0.35581(43)$           |
 | $a m_\text{res}$ | $0.0018915(75)$         |
 | $Z_V$            | $0.68339(82)$           |
 | $Z_A$            | $0.68779(11)$           |
+
+## 16IH2
+
+`/auto/qs0-2/qcddata/DWF/2+1f/16nt32/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_multi_timescale_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
+
+## 24IH1
+
+`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+## 24IH2
+
+`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
+
+## 24IH3
+
+`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
+
+## 24IH4
+
+`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.03/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
+
+## 32IH1
+
+`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.004/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+## 32IH2
+
+`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.006/quo_hasenbusch_rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.1000`
+
+## 32IH3
+
+`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.008/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+## 32IcoarseH1
+
+`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/mu0.005/rhmc_HR_G/evol0/configurations/ckpoint_lat.0`
+
+## 32IfineH
+
+`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.37/ls12/M1.8/ms0.0186/mu0.0047/rhmc_H_R_G/archived/ckpoint_lat.1000`
+
+## 48If
+
+`/auto/qs0-3/qcddata/MDWF/2+1f/48nt96/IWASAKI/b2.31/ls12b+c2/M1.8/ms0.02144/mu0.002144/rhmc_HE_G/archived/ckpoint_lat.1000`
+
+## 48IfS
+
+`/auto/qs0-2/qcddata/DWF/2+1f/48nt96/IWASAKI/b2.31/ls12/M1.8/ms0.02144/mu0.002144/rhmc_HR_G/archived/ckpoint_lat.3800`
 
 # Sources
 
@@ -116,5 +176,5 @@
 - Basic Results for Coarse Ensembles, David Murphy, April 13, 2017
 - Domain wall QCD with physical quark masses, RBC and UKQCD Collaborations, 2016
 
-
+* Isospin 0 and 2 two-pion scattering at physical pion mass using all-to-all propagators with periodic boundary conditions in lattice QCD, RBC and UKQCD Collaborations, 2023
 
