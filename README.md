@@ -126,41 +126,181 @@
 
 `/auto/qs0-2/qcddata/DWF/2+1f/16nt32/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_multi_timescale_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
 
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $16^3\times 32$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.01$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.241518(84)$          |
+| $a m_K$          | $0.3509(5)$             |
+| $a m_\text{res}$ | $0.003183(13)$          |
+| $Z_V$            | $0.71401(31)$           |
+| $Z_A$            | $0.717750(48)$          |
+
 ## 24IH1
 
 `/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 32$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.01$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.19053(12)$           |
+| $a m_K$          | $0.3325(6)$             |
+| $a m_\text{res}$ | $0.003149(14)$          |
+| $Z_V$            | $0.71323(83)$           |
+| $Z_A$            | $0.717311(49)$          |
 
 ## 24IH2
 
 `/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
 
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 32$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.01$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.241518(84)$          |
+| $a m_K$          | $0.3509(5)$             |
+| $a m_\text{res}$ | $0.003183(13)$          |
+| $Z_V$            | $0.71401(31)$           |
+| $Z_A$            | $0.717750(48)$          |
+
 ## 24IH3
 
 `/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 32$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.02$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        |                         |
+| $a m_K$          |                         |
+| $a m_\text{res}$ | $0.003183(13)$          |
+| $Z_V$            | $0.71401(31)$           |
+| $Z_A$            | $0.717750(48)$          |
 
 ## 24IH4
 
 `/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.03/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
 
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $24^3\times 32$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.03$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        |                         |
+| $a m_K$          |                         |
+| $a m_\text{res}$ | $0.003183(13)$          |
+| $Z_V$            | $0.71401(31)$           |
+| $Z_A$            | $0.717750(48)$          |
+
 ## 32IH1
 
 `/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.004/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $32^3\times 64$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.004$                 |
+| $a m_h$          | $0.03$                  |
+| $a^{-1}$         | $2.383(9)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.1269(4)$             |
+| $a m_K$          | $0.2430(4)$             |
+| $a m_\text{res}$ | $0.0006697(34)$         |
+| $Z_V$            | $0.73871(77)$           |
+| $Z_A$            | $0.74513(15)$           |
 
 ## 32IH2
 
 `/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.006/quo_hasenbusch_rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.1000`
 
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $32^3\times 64$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.006$                 |
+| $a m_h$          | $0.03$                  |
+| $a^{-1}$         | $2.383(9)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.1512(3)$             |
+| $a m_K$          | $0.2500(3)$             |
+| $a m_\text{res}$ | $0.0006589(30)$         |
+| $Z_V$            | $0.73853(64)$           |
+| $Z_A$            | $0.74523(12)$           |
+
 ## 32IH3
 
 `/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.008/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $32^3\times 64$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.008$                 |
+| $a m_h$          | $0.03$                  |
+| $a^{-1}$         | $2.383(9)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.1727(4)$             |
+| $a m_K$          | $0.2579(4)$             |
+| $a m_\text{res}$ | $0.0006676(34)$         |
+| $Z_V$            | $0.73802(55)$           |
+| $Z_A$            | $0.74526(12)$           |
 
 ## 32IcoarseH1
 
 `/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/mu0.005/rhmc_HR_G/evol0/configurations/ckpoint_lat.0`
 
+| Name             | Value                   |
+| ---------------- | ----------------------- |
+| Size             | $32^3\times 64$         |
+| $L_s$            | $16$                    |
+| $b+c$            | $1$                     |
+| $a m_l$          | $0.01$                  |
+| $a m_h$          | $0.04$                  |
+| $a^{-1}$         | $1.785(5)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.19053(12)$           |
+| $a m_K$          | $0.3325(6)$             |
+| $a m_\text{res}$ | $0.003149(14)$          |
+| $Z_V$            | $0.71323(83)$           |
+| $Z_A$            | $0.717311(49)$          |
+
 ## 32IfineH
 
 `/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.37/ls12/M1.8/ms0.0186/mu0.0047/rhmc_H_R_G/archived/ckpoint_lat.1000`
+
+| Name             | Value                    |
+| ---------------- | ------------------------ |
+| Size             | $32^3\times 64$          |
+| $L_s$            | $12$                     |
+| $b+c$            | $1$                      |
+| $a m_l$          | $0.0047$                 |
+| $a m_h$          | $0.0186$                 |
+| $a^{-1}$         | $3.148(17)~\mathrm{GeV}$ |
+| $a m_\pi$        | $0.11790(131)$           |
+| $a m_K$          | $0.17720(118)$           |
+| $a m_\text{res}$ | $0.0006296(58)$          |
+| $Z_V$            | $0.77700(8)$             |
+| $Z_A$            | $0.77779(29)$            |
 
 ## 48If
 
@@ -177,4 +317,6 @@
 - Domain wall QCD with physical quark masses, RBC and UKQCD Collaborations, 2016
 
 * Isospin 0 and 2 two-pion scattering at physical pion mass using all-to-all propagators with periodic boundary conditions in lattice QCD, RBC and UKQCD Collaborations, 2023
+* PHYSICAL REVIEW D 93, 074505 (2016)
+* PHYSICAL REVIEW D 83, 074508 (2011)
 
