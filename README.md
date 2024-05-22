@@ -52,7 +52,9 @@
 
 ## 24D
 
-`/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/evol1/configurations/ckpoint_lat.1000`
+```
+qcd1:/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/archived/ckpoint_lat.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -70,7 +72,9 @@
 
 ## 24DH
 
-`/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0985/ml0.0174/rhmc_R_H_TG/evol0/configurations/ckpoint_lat.200`
+```
+qcd1:/auto/qs0-2/qcddata/MDWF/2+1f/24nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0985/ml0.0174/rhmc_R_H_TG/evol0/configurations/ckpoint_lat.??0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -88,7 +92,9 @@
 
 ## 32D
 
-`/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/evol0/configurations/ckpoint_lat.1000`
+```
+qcd1:/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.633/ls24b+c4/M1.8/ms0.0850/ml0.00107/rhmc_R_H_TG/archived/ckpoint_lat.{??,???}0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -106,7 +112,9 @@
 
 ## 32Dfine
 
-`/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.75/ls12b+c2.6667/M1.8/ms0.045/mu0.0001/rhmc_H_R_G/archived/ckpoint_lat.10`
+```
+qcd1:/auto/qs0-2/qcddata/MDWF/2+1f/32nt64/IWASAKI+DSDR/b1.75/ls12b+c2.6667/M1.8/ms0.045/mu0.0001/rhmc_H_R_G/archived/ckpoint_lat.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -124,7 +132,9 @@
 
 ## 16IH2
 
-`/auto/qs0-2/qcddata/DWF/2+1f/16nt32/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_multi_timescale_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/16nt32/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_multi_timescale_ukqcd/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -142,7 +152,9 @@
 
 ## 24IH1
 
-`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -160,7 +172,10 @@
 
 ## 24IH2
 
-`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.0`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/quo_hasenbusch_rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.???0
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/quo_hasenbusch_rhmc/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -178,7 +193,11 @@
 
 ## 24IH3
 
-`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc/archived/ckpoint_lat.IEEE64BIG.???0
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.???0
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/rhmc_multi_timescale/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -196,7 +215,9 @@
 
 ## 24IH4
 
-`/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.03/rhmc/archived/ckpoint_lat.IEEE64BIG.0`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.03/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -214,7 +235,9 @@
 
 ## 32IH1
 
-`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.004/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.004/rhmc_H_R_G*/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -232,7 +255,9 @@
 
 ## 32IH2
 
-`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.006/quo_hasenbusch_rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.1000`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.006/quo_hasenbusch_rhmc*/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -250,7 +275,9 @@
 
 ## 32IH3
 
-`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.008/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.1000`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.25/ls16/M1.8/ms0.03/mu0.008/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.???0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -268,7 +295,9 @@
 
 ## 32IcoarseH1
 
-`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/mu0.005/rhmc_HR_G/evol0/configurations/ckpoint_lat.0`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/mu0.005/rhmc_HR_G/archived/ckpoint_lat.{??,???}0
+```
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
@@ -286,7 +315,9 @@
 
 ## 32IfineH
 
-`/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.37/ls12/M1.8/ms0.0186/mu0.0047/rhmc_H_R_G/archived/ckpoint_lat.1000`
+```
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/32nt64/IWASAKI/b2.37/ls12/M1.8/ms0.0186/mu0.0047/rhmc_H_R_G/archived/ckpoint_lat.???0
+```
 
 | Name             | Value                    |
 | ---------------- | ------------------------ |
@@ -304,11 +335,15 @@
 
 ## 48If
 
-`/auto/qs0-3/qcddata/MDWF/2+1f/48nt96/IWASAKI/b2.31/ls12b+c2/M1.8/ms0.02144/mu0.002144/rhmc_HE_G/archived/ckpoint_lat.1000`
+```
+/auto/qs0-3/qcddata/MDWF/2+1f/48nt96/IWASAKI/b2.31/ls12b+c2/M1.8/ms0.02144/mu0.002144/rhmc_HE_G/archived/ckpoint_lat.1000
+```
 
 ## 48IfS
 
-`/auto/qs0-2/qcddata/DWF/2+1f/48nt96/IWASAKI/b2.31/ls12/M1.8/ms0.02144/mu0.002144/rhmc_HR_G/archived/ckpoint_lat.3800`
+```
+/auto/qs0-2/qcddata/DWF/2+1f/48nt96/IWASAKI/b2.31/ls12/M1.8/ms0.02144/mu0.002144/rhmc_HR_G/archived/ckpoint_lat.3800
+```
 
 # Sources
 
