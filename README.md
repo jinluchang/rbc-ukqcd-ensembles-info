@@ -174,6 +174,7 @@ qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/
 
 ```
 qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/quo_hasenbusch_rhmc_ukqcd/archived/ckpoint_lat.IEEE64BIG.???0
+qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/rhmc_H_R_G/archived/ckpoint_lat.IEEE64BIG.???0
 qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/quo_hasenbusch_rhmc/archived/ckpoint_lat.IEEE64BIG.???0
 ```
 
