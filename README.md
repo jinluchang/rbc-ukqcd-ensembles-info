@@ -158,7 +158,7 @@ qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.005/
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
-| Size             | $24^3\times 32$         |
+| Size             | $24^3\times 64$         |
 | $L_s$            | $16$                    |
 | $b+c$            | $1$                     |
 | $a m_l$          | $0.01$                  |
@@ -180,7 +180,7 @@ qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.01/q
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
-| Size             | $24^3\times 32$         |
+| Size             | $24^3\times 64$         |
 | $L_s$            | $16$                    |
 | $b+c$            | $1$                     |
 | $a m_l$          | $0.01$                  |
@@ -202,7 +202,7 @@ qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.02/r
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
-| Size             | $24^3\times 32$         |
+| Size             | $24^3\times 64$         |
 | $L_s$            | $16$                    |
 | $b+c$            | $1$                     |
 | $a m_l$          | $0.02$                  |
@@ -222,7 +222,7 @@ qcd1:/auto/qs0-2/qcddata/DWF/2+1f/24nt64/IWASAKI/b2.13/ls16/M1.8/ms0.04/ml0.03/r
 
 | Name             | Value                   |
 | ---------------- | ----------------------- |
-| Size             | $24^3\times 32$         |
+| Size             | $24^3\times 64$         |
 | $L_s$            | $16$                    |
 | $b+c$            | $1$                     |
 | $a m_l$          | $0.03$                  |
